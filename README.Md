@@ -1,6 +1,6 @@
-![enter image description here](https://psv4.userapi.com/c856328/u119692890/docs/d3/199eaa25b53d/image_3.png?extra=cf4mSjQml-R21xI3g6EcRGyGbxq1veKoNgMFzFFl_4S8pu6dFYbZoOgTzuCtKHpWGH-rWlrsQaPYZ9QseEwGbGPlEPnu30X_3GuGX-nlBb5zA3eZ285PtCCCjByk5oN1VX9lRo5ek8nPd-C6aQxNoPweMER6)
+![Хули ты на меня навел?](https://psv4.userapi.com/c856328/u119692890/docs/d3/199eaa25b53d/image_3.png?extra=cf4mSjQml-R21xI3g6EcRGyGbxq1veKoNgMFzFFl_4S8pu6dFYbZoOgTzuCtKHpWGH-rWlrsQaPYZ9QseEwGbGPlEPnu30X_3GuGX-nlBb5zA3eZ285PtCCCjByk5oN1VX9lRo5ek8nPd-C6aQxNoPweMER6)
 
-## # Личная инфа[🐈](https://emojio.top/zhivotnye-i-priroda/koshka-cat/)
+# Личная инфа 🐈
 
 Возраст: 21
 
@@ -43,6 +43,12 @@ DirectX 12.0
 Мышка: Razer mod. rz01-0163
 
 Клавиатура: Razer
+
+# Мои консоли
+
+🎮 Xbox one fat
+
+🎮 Буду брать - xbox series x
 
 ## Соц сети 
 

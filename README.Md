@@ -1,4 +1,4 @@
-![enter image description here](https://psv4.userapi.com/c856428/u119692890/docs/d1/bf887585236c/image_2.png?extra=sVcStAgwGh4iZaqsJE9qCV9tkv_KRhTUlQ1dYEq4FlVmuy4AQYk1PInKZMHvh8QtjnzmQVYMj9bfsZw2ZIDhNu3jiD5n1FEYviVzul9-wpSQAVeP82DDnzyp-Me5B2FnkTEDk48T8AG6DW_j-ANJ7hu-mPh0)
+![enter image description here](https://psv4.userapi.com/c856328/u119692890/docs/d3/199eaa25b53d/image_3.png?extra=cf4mSjQml-R21xI3g6EcRGyGbxq1veKoNgMFzFFl_4S8pu6dFYbZoOgTzuCtKHpWGH-rWlrsQaPYZ9QseEwGbGPlEPnu30X_3GuGX-nlBb5zA3eZ285PtCCCjByk5oN1VX9lRo5ek8nPd-C6aQxNoPweMER6)
 
 ## # Личная инфа[🐈](https://emojio.top/zhivotnye-i-priroda/koshka-cat/)
 

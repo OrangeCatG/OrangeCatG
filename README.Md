@@ -31,7 +31,7 @@ DirectX 12.0
 
 Отображение:
 
-Видеоадаптер NVIDIA GeForce GTX 950 (2 ГБ)
+Видеоадаптер NVIDIA GeForce GTX 1050 ti - msi (4 ГБ)
 
 Монитор SAMSUNG C24RG50FQI 23.5" черный [lc24rg50fqixci] (144 гц)
 

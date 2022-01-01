@@ -19,7 +19,7 @@
 
 # Мой основной ПК  🖥️
 
-Операционная система: Microsoft Windows 10 Домашняя
+Операционная система: Microsoft Windows 11 pro
 
 DirectX 12.0
 
@@ -45,23 +45,17 @@ DirectX 12.0
 
 Клавиатура: Razer
 
-# Мои консоли
-
-🎮 Xbox one fat
-
-🎮 Буду брать - xbox series x
-
 ## Соц сети 
 
 ВК: [Вадим Агеев](https://vk.com/orangecatgames)
 
 Группа вк: [Моя группа](https://vk.com/orange_cat_games)
 
-Сайт: [Мой сайт](https://OrangeCatGames.github.io)
-
 Steam: [OrangeCatGames](https://steamcommunity.com/id/OrangeCatGames/)
 
-Ютуб: [Мой канал](https://www.youtube.com/OrangeCatGames)
+Ютуб: [Мой канал](https://www.youtube.com/channel/UCQb3sSioZtLYgEwgYbhklEQ)
+
+Twitch: [Мой стрим канал](https://www.twitch.tv/k0tshow)
 
 🎮 Xbox Live: [OrigamiNet](https://account.xbox.com/ru-ru/profile?gamertag=OrangeCatGames_&csrf=7vRP5ACWcoYDAg0HTBMN2ilhYMtTTxCGy1S09OSY1sYENr_gspVikaByLT--Ldd41AlU-o4EW_nOa9Vu6bMmQZUsha41&wa=wsignin1.0&activetab=main:followings)
 
@@ -73,4 +67,4 @@ Discord: OrangeCatGames#6278 или [мой сервер](https://discord.gg/sT3
 
 # Хотите поддержать?  💵
 
-https://www.donationalerts.com/r/orangecatgames
+https://www.donationalerts.com/r/orangecatgames_
